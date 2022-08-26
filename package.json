@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server results.json"
+    "start": "json-server db.json"
   },
   "repository": {
     "type": "git",
