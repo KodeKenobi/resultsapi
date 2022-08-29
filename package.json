@@ -1,7 +1,6 @@
 {
   "name": "amber",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "json-server db.json"
@@ -19,5 +18,11 @@
   "homepage": "https://github.com/KodeKenobi/resultsapi#readme",
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "description": ""
 }
