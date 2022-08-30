@@ -104,10 +104,10 @@ async function renderUsers() {
                     <a class="nav-link"><i class="align-middle pr-2"></i>Age: ${user.dob.age}</a>
                 </li> 
                 <li class="nav-item">
-                    <a class="nav-link"><i class="align-middle pr-2"></i>Age: ${user.registered.date}</a>
+                    <a class="nav-link"><i class="align-middle pr-2"></i>Registered Date: ${user.registered.date}</a>
                 </li>  
                 <li class="nav-item">
-                    <a class="nav-link"><i class="align-middle pr-2"></i>Age: ${user.registered.age}</a>
+                    <a class="nav-link"><i class="align-middle pr-2"></i>Registered Age: ${user.registered.age}</a>
                 </li> 
                 
                 
